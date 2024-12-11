@@ -5,7 +5,7 @@ I am a computer engineer major here at CSUF and I plan on graduating in 2028.
 
 ## Favorite CPSC 120L Labscd
 
-Lab-1
+Lab-1,
 
 *This was a really fun lab, not only because it was easy but also because it set the foundation for other labs. Although it didn’t seem easy at the time, it is now probably one of the easiest assignments that we have done in this class. I also enjoyed working with my partner, it made making friends easier at this new school.
 

@@ -11,7 +11,7 @@ This was a really fun lab, not only because it was easy but also because it set 
 
 *Lab-3 Part 1,
 
-This lab was probably my favorite because it was so fascinating and rewarding. I felt accomplished when our code finally worked when we tested it for calculating our BMR. It was incredible to see that our lines of code could turn into a program.
+This lab was probably my favorite because it was so fascinating and rewarding. I felt accomplished when our code finally worked when we tested it for calculating our BMR. It was incredible to see that our lines of code could turn into a program, had fun playing around with it.
 
 *Lab-3 Part 2,
 
